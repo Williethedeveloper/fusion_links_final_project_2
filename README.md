@@ -51,3 +51,6 @@ After applying, terraform will gove the following outputs:
 ---
 An example is shown below:
 ![alt text](output.png)
+=======
+## Deploy two-tier architecture infrastructure on aws using terraform.
+>>>>>>> 1b30786542124831b344ff40a2fae9e2b113d0a4
