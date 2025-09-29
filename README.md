@@ -25,6 +25,7 @@ git clone https://github.com/Williethedeveloper/fusion_links_final_project_2.git
 ```
 terraform init
 ```
+![](./images/init.png)
 ### 3. Format your code
 ```
 terraform fmt
@@ -33,15 +34,18 @@ terraform fmt
 ```
 terraform plan
 ```
+![alt text](./images/plan.png)
 ### 5. Apply changes
 ```
 terraform apply
 ```
 Type yes when prompted
+![alt text](./images/apply.png)
 ### 6. Destroy resources (to avoid AWS charges)
 ```
 terraform destroy
 ```
+![alt text](./images/destroy.png)
 
 ## Outputs
 After applying, terraform will gove the following outputs:
@@ -50,5 +54,5 @@ After applying, terraform will gove the following outputs:
 2. Database endpoint
 ---
 An example is shown below:
-![alt text](output.png)
+![alt text](./images/output.png)
 
